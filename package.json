@@ -1,0 +1,22 @@
+{
+  "name": "@annoyingmouse/wc-animated-dash",
+  "version": "1.0.0",
+  "description": "This web component creates a animated dash",
+  "main": "wc-animated-dash.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annoyingmouse/wc-animated-dash.git"
+  },
+  "keywords": [
+    "web-component"
+  ],
+  "author": "Dominic Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annoyingmouse/wc-animated-dash/issues"
+  },
+  "homepage": "https://github.com/annoyingmouse/wc-animated-dash#readme"
+}
