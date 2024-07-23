@@ -1,6 +1,6 @@
 {
   "name": "@annoyingmouse/wc-animated-dash",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This web component creates a animated dash",
   "main": "wc-animated-dash.js",
   "scripts": {
